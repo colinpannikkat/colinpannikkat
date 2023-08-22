@@ -2,7 +2,7 @@
 
 I am a second-year CS student hoping to build a more sustainable and efficient future within the intersection of computer science, economics, and the environment.
 
-Currently researching in Oregon State University's **Secure AI Systems Lab**.
+Currently doing LLM research in Oregon State University's **Secure AI Systems Lab**.
 
 ### Current Projects
 * Creating my personal website
