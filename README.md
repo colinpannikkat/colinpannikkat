@@ -1,10 +1,13 @@
-# Welcome!
+## Welcome!
 
-I am a second-year student at Oregon State University at the intersection of computer science, economics, and the environment.
+I am a second-year student who hopes to build a more sustainable and efficient future within the intersection of computer science, economics, and the environment.
+
+Currently researching in Oregon State University's **Secure AI Systems Lab**.
 
 ### Current Projects
 * Creating my personal website
 * Developing tool for importing Canvas ICS to Apple Reminders
+* Adding 4-bit quantized model support to [LLM-Attacks](https://github.com/llm-attacks/llm-attacks)
 
 <!--
 **colinpannikkat/colinpannikkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
