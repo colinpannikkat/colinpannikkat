@@ -9,6 +9,9 @@ Currently doing LLM research in Oregon State University's **Secure AI Systems La
 * Developing tool for importing Canvas ICS to Apple Reminders
 * Adding 4-bit quantized model support to [LLM-Attacks](https://github.com/llm-attacks/llm-attacks)
 
+### Previous Projects
+* AI-Powered Short-Form Video Generator
+
 <!--
 **colinpannikkat/colinpannikkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
