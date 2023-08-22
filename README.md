@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome!
+
+I am a second-year student at Oregon State University at the intersection of computer science, economics, and the environment.
+
+### Current Projects
+* Creating my personal website
+* Developing tool for importing Canvas ICS to Apple Reminders
 
 <!--
 **colinpannikkat/colinpannikkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
