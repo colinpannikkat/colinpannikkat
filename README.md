@@ -7,7 +7,7 @@ Currently doing LLM research in Oregon State University's **Secure AI Systems La
 ### Current Projects
 * Creating my personal website
 * Developing tool for importing Canvas ICS to Apple Reminders
-* Adding 4-bit quantized model support to [LLM-Attacks](https://github.com/llm-attacks/llm-attacks)
+* Adding 4-bit quantized model support to [LLM-Attacks](https://github.com/llm-attacks/llm-attacks) ✔️
 * Developing web app for tutors to manage students (attendance, discussion/questions, uploading plans and notes)
 
 ### Previous Projects
