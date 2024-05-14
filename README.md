@@ -5,10 +5,9 @@ I am a second-year CS and Sustainability student hoping to build a more sustaina
 Currently doing LLM research in Oregon State University's **Secure AI Systems Lab**.
 
 ### Current Projects
-* Implementing a feed-forward neural network from scratch in C++
-* Creating my personal website
-* Developing tool for importing Canvas ICS to Apple Reminders
-* Adding 4-bit quantized model support to [LLM-Attacks](https://github.com/llm-attacks/llm-attacks) ✔️
+* AI Chatbot for OSU's first-year College of Business students
+* Implementing a feed-forward neural network from scratch
+* AI Local Weather Forcasting
 * Developing web app for tutors to manage students (attendance, discussion/questions, uploading plans and notes)
 
 ### Previous Projects
