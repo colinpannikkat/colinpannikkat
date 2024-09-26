@@ -6,7 +6,8 @@ Currently doing mechanistic process-based modeling research in Oregon State Univ
 
 ### Current Projects
 * Implementing a feed-forward neural network from scratch
-* Developing web app for tutors to manage students (attendance, discussion/questions, uploading plans and notes)
+* Developing web app for SI Leaders at Oregon State University to manage students (attendance, discussion/questions, uploading plans and notes)
+* Collecting car insurance data to create a data-driven car insurance information website
 
 ### Previous Projects
 * AI Chatbot for OSU's first-year College of Business students
