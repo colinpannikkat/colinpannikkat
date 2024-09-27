@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am a third-year CS, Math, and Econ student hoping to build a more sustainable and efficient future within the intersection of computer science, economics, and the environment.
+I am a third-year CS, Math, and Econ student hoping to build a sustainable, efficient, and data-driven future within the intersection of computer science, economics, and the environment.
 
 Currently doing mechanistic process-based modeling research in Oregon State University's **Forest Ecophysiology Lab**.
 
