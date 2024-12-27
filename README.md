@@ -9,6 +9,7 @@ Currently doing mechanistic process-based modeling research in Oregon State Univ
 * Reading 'Crafting Interpreters' and implementing the Lox language and its corresponding interpreters.
 
 ### Previous Projects
+* GetTheDamClass: Class vacancy notification extension for Oregon State University students.
 * AI Chatbot for OSU's first-year College of Business students
 * Focii: An Anti-Procrastination Chrome Extension
 * Backcast: Tune in at anytime for a back-to-the-past broadcast with a 24/7 AI-powered radio stream.
