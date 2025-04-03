@@ -6,11 +6,12 @@ Currently doing mechanistic process-based modeling research in Oregon State Univ
 
 ### Current Projects
 * Implementing a feed-forward neural network from scratch
-* Reading 'Crafting Interpreters' and implementing the Lox language and its corresponding interpreters.
+* Lox: Reading 'Crafting Interpreters' and implementing the Lox language and its corresponding interpreters
 
 ### Previous Projects
-* GetTheDamClass: Class vacancy notification extension for Oregon State University students.
-* AI Chatbot for OSU's first-year College of Business students
+* ATSynKD: Feature-based knowledge distillation using synthetic data for my AI535 final project
+* GetTheDamClass: Class vacancy notification extension for Oregon State University students
+* Proof-of-concept RAG chatbot for OSU's first-year College of Business students
 * Focii: An Anti-Procrastination Chrome Extension
-* Backcast: Tune in at anytime for a back-to-the-past broadcast with a 24/7 AI-powered radio stream.
+* Backcast: Tune in at anytime for a back-to-the-past broadcast with a 24/7 AI-powered radio stream
 * shortsGenerator: AI-Powered Short-Form Video Generator
