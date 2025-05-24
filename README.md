@@ -5,7 +5,7 @@ I am a third-year CS, Math, and Econ student hoping to build a sustainable, effi
 Currently doing mechanistic process-based modeling research in Oregon State University's **Forest Ecophysiology Lab**.
 
 ### Current Projects
-* Autodiff: An reverse-mode automatic differentiation framework for backpropagation, from scratch
+* Autodiff: A reverse-mode automatic differentiation framework for backpropagation, from scratch
 * Lox: Reading 'Crafting Interpreters' and implementing the Lox language and its corresponding compilers
 
 ### Previous Projects
