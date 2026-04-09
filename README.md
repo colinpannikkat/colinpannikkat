@@ -5,7 +5,7 @@ I am a fourth-year CS, Math, and Econ student hoping to build a sustainable, eff
 Currently doing plant ecophysiology modeling research for tree response to extreme environments in Oregon State University's **Forest Ecophysiology Lab**.
 
 ### Current Projects
-* Mini-c: A compiler build in Haskell for a subset of C
+* Mini-C: A compiler build in Haskell for a subset of C
 
 ### Previous Projects
 * Autodiff: A reverse-mode automatic differentiation framework for backpropagation, from scratch
