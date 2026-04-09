@@ -5,10 +5,11 @@ I am a fourth-year CS, Math, and Econ student hoping to build a sustainable, eff
 Currently doing plant ecophysiology modeling research for tree response to extreme environments in Oregon State University's **Forest Ecophysiology Lab**.
 
 ### Current Projects
-* Autodiff: A reverse-mode automatic differentiation framework for backpropagation, from scratch
-* Lox: Reading 'Crafting Interpreters' and implementing the Lox language and its corresponding compilers
+* Mini-c: A compiler build in Haskell for a subset of C
 
 ### Previous Projects
+* Autodiff: A reverse-mode automatic differentiation framework for backpropagation, from scratch
+* Lox: Read 'Crafting Interpreters' and implemented the Lox language and its correspond JLox interpreter
 * ATSynKD: Feature-based knowledge distillation using synthetic data for my AI535 final project
 * GetTheDamClass: Class vacancy notification extension for Oregon State University students
 * Proof-of-concept RAG chatbot for OSU's first-year College of Business students
