@@ -1,8 +1,8 @@
 ## Welcome!
 
-I am a master's student at Oregon State University researching causal discovery under measurement error in the **Causal Intelligence and Reasoning Lab** under Prof. Karthika Mohan. I recently graduated with my B.S. in Computer Science, and minors in Math and Economics.
+I am a master's student at Oregon State University interested in modeling real world environments, particularly in the realm of world modeling through physics informed deep learning and causal inference. I recently graduated with my B.S. in Computer Science, and minors in Math and Economics.
 
-Currently working as a research computing intern at **Pacific Northwest National Laboratory**. Previously I worked as an undergraduate researcher in the **Forest Ecophysiology Lab** under Prof. German Vargas Gutierrez (2024-2026) and in the **Secure AI Systems Lab** under Prof. Sanghyun Hong (2022-2024).
+Currently working as a research computing intern at **Pacific Northwest National Laboratory** researching applications of causal techniques to biosystems design. Previously I worked as an undergraduate researcher in the **Forest Ecophysiology Lab** under Prof. German Vargas Gutierrez (2024-2026) and in the **Secure AI Systems Lab** under Prof. Sanghyun Hong (2022-2024).
 
 ### Current Projects
 * TBA (Currently thinking of a way to create an all-in-one tool that will automatically sync a master document containing personal/career info to all relevant websites (GitHub/LinkedIn/Personal Website).
